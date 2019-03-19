@@ -1,0 +1,12 @@
+.vs/
+*.dll
+*.pdb
+*.suo
+*.png
+*.cache
+*.user
+*.exe
+*.sln
+*.config
+__pycache__/
+*.pyproj
